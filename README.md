@@ -1,6 +1,6 @@
 # Income-Expense-Tracker
 
-This is a very simple react to do list application using useState() <br>
+This is a very simple react Income-Expense-Tracker app <br>
 [Income-Expense-Tracker](https://rasel22-income-expense-tracker.netlify.app// "Go to the website netlify") <br>
 [Income-Expense-Tracker](https://income-expense-tracker-six.vercel.app/"Go to the website vercel")
 
